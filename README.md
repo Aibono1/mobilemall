@@ -14,12 +14,15 @@ Home Page
 ![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic1.PNG)
 
 Product Category
+
 ![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic2.PNG)
 
 Product Detail
+
 ![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic3.PNG)
 
 Shopping Cart
+
 ![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic4.PNG)
 
 ## Build Setup
