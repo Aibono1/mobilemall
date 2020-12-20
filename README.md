@@ -3,23 +3,24 @@
 > A fullstack project
 
 Front-end: Vue + Vant
+
 Back-end: Koa2 + MongoDB
 
 ## Preview
 Home Page
 
-![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic0.PNG)
+![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic0.PNG)
 
-![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic1.PNG)
+![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic1.PNG)
 
 Product Category
-![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic2.PNG)
+![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic2.PNG)
 
 Product Detail
-![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic3.PNG)
+![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic3.PNG)
 
 Shopping Cart
-![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic4.PNG)
+![image](https://github.com/Aibono1/mobilemall/raw/master/pics/pic4.PNG)
 
 ## Build Setup
 
